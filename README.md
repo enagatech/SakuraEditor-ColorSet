@@ -2,11 +2,11 @@
 
 ### No.1 夜桜
 #### サンプル
-<img width="1417" height="713" alt="サンプル" src="https://github.com/user-attachments/assets/bfd5b68b-a3df-455f-a394-94244a1c79f9" />
+<img width="1417" height="713" alt="サンプル" src="夜桜サンプル.png" />
 
 ### No.2 薄藤
 #### サンプル
-<img width="1417" height="713" alt="サンプル" src="https://github.com/user-attachments/assets/bfd5b68b-a3df-455f-a394-94244a1c79f9" />
+<img width="1417" height="713" alt="サンプル" src="薄藤サンプル.png" />
 
 ### インストール手順
 1. 夜桜.col／薄藤.col をダウンロード
